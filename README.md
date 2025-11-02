@@ -16,11 +16,21 @@ You can convert text to uppercase/lowercase, remove extra spaces, copy text with
 
 ---
 
-#Technologies Used
+# Technologies Used
 
 - **React.js** (Frontend Library)
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**
 - **Bootstrap** for responsive design
+
+---
+##  App Previews
+
+###  Light Mode
+![Light Mode](./screenshot/light-mode.png)
+
+###  Dark Mode
+![Dark Mode](./screenshot/dark-mode.png)
+
 
 ---
 
