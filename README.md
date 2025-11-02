@@ -1,9 +1,9 @@
 #  TextUtils - React.js App
 
-TextUtils is a simple and user-friendly "React.js" web application that helps users easily transform, analyze, and format text.  
+TextUtils is a simple and user-friendly **React.js** web application that helps users easily transform, analyze, and format text.  
 You can convert text to uppercase/lowercase, remove extra spaces, copy text with one click, and even check reading time instantly.
 
-
+---
 
 # Features
 
